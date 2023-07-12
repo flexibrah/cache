@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  build:[![NodeJS with Grunt](https://github.com/flexibrah/cache/actions/workflows/npm-grunt.yml/badge.svg?branch=2gb_issue_fix&event=check_run)](https://github.com/flexibrah/cache/actions/workflows/npm-grunt.yml
     runs-on: ubuntu-latest
 
     strategy:
